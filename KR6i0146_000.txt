@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說勝軍王所問經
+#+DATE: 2015-08-30 20:11:05.176882
+#+PROPERTY: JUAN 0
